@@ -41,3 +41,5 @@ The code can be built, but due to missing features one of the tests fails. The f
 
 
 ## Added some comments based on the pull request  review
+
+[![Java CI with Maven](https://github.com/suncze/se-lab/actions/workflows/maven.yml/badge.svg)](https://github.com/suncze/se-lab/actions/workflows/maven.yml)
